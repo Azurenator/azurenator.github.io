@@ -16,4 +16,4 @@ Leveraging the power of Azure Bot Service development options, Azurenator intera
 
 ## Try it!
 
-https://azurenator.github.io
+https://aka.ms/azurenator
